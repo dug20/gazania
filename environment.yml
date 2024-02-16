@@ -1,0 +1,15 @@
+name: gaz
+channels:
+  - defaults
+  - cantera
+dependencies:
+  - python=3.8
+  - scipy
+  - pip
+  - numpy
+  - matplotlib
+  - tabulate
+  - cantera
+
+
+
