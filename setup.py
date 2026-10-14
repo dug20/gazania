@@ -12,6 +12,6 @@ setup(
     name='gazania',
     version='0.1.0',
     packages=find_packages(),
-    install_requires=['numpy', 'matplotlib', 'scipy', 'tabulate', 'cantera'],
+    install_requires=['numpy', 'matplotlib', 'scipy', 'tabulate'],
     description='Gas turbine and jet engine cycle tools',
 )
