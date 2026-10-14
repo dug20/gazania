@@ -6,7 +6,7 @@ Gas turbine cycle tool for IIB project. Named after the gazania flower, which is
 
 Download the repository, then navigate to the repository location with a command line and run:
 
-`pip install .` 
+`pip install git+https://github.com/dug20/gazania.git` 
 
 And then:
 
