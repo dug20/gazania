@@ -4,12 +4,4 @@ Gas turbine cycle tool for IIB project. Named after the gazania flower, which is
 
 # Installation
 
-Download the repository, then navigate to the repository location with a command line and run:
-
 `pip install git+https://github.com/dug20/gazania.git` 
-
-And then:
-
-`conda install cantera`
-
-(Note the second line requires you to be using Anaconda Prompt).
